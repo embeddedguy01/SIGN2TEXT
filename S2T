@@ -1,0 +1,22 @@
+int IndexFinger A0;
+int ThumbFinger A1;
+data = 0;
+
+void setup();
+IndexFinger(A0, INPUT);
+ThumbFinger(A1, INPUT);
+
+
+void loop();
+data = analogRead (A0);
+
+if data = 355; && data = 550;
+{
+Serial.println ("I Want To Toilet")
+}
+
+
+data = analogRead(A1)
+{
+Serial.println ("Call Doctor");
+}
